@@ -1,3 +1,3 @@
 # Blazniva krizovatka 
 
-Riesenie problemu 'blazniva krizovatka pomocou cyklicky sa prehlbujuceho prehladavania'
+Riesenie problemu 'blazniva krizovatka' pomocou cyklicky sa prehlbujuceho prehladavania
